@@ -27,3 +27,4 @@ This Online Pong Game Interface represents a core component of the more comprehe
 
 We welcome contributions to this project! 
 
+![Screenshot 2024-05-17 115223](https://github.com/rgenge/OnlinePongGame/assets/82456124/7ccb958c-05ac-474d-9cd4-e8f8bf6a6f84)
